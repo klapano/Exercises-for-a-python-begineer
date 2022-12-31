@@ -1,1 +1,1 @@
-# Exercises-for-a-python-begineer 
+# Exercises-for-a-python-begineer, getting to know python as a programming language.
